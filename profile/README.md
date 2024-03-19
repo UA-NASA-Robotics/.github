@@ -3,3 +3,4 @@ This repository contains the past and present code developed by the UA NASA Robo
 Check the current projects for posted issues. Issues will be catorgized by difficulty.
 
 # Current Projects
+- https://github.com/UA-NASA-Robotics/cpp-lidar
