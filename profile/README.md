@@ -4,3 +4,4 @@ Check the current projects for posted issues. Issues will be catorgized by diffi
 
 # Current Projects
 - https://github.com/UA-NASA-Robotics/cpp-lidar
+- https://github.com/UA-NASA-Robotics/svelte-website
